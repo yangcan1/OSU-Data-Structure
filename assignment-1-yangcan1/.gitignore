@@ -1,0 +1,5 @@
+*.o
+test_dynarray
+test_list
+application
+*.dSYM
